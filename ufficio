@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>La Mia Pagina con Servizi</title>
   <!-- Collegamento al file CSS di Bootstrap dalla CDN di Bootstrap -->
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://assets/plugins/fancybox/jquery.fancybox.css">
   <!-- Stili personalizzati -->
   <style>
     body {
       background-image: url('link_allo_sfondo.jpg'); /* Sostituisci con il link all'immagine di sfondo */
       background-size: cover;
       background-repeat: no-repeat;
-      color: #fff; /* Colore del testo sulla pagina */
+      color:#06000a; /* Colore del testo sulla pagina */
       font-family: Arial, sans-serif; /* Tipo di carattere */
     }
     .service-description {
@@ -26,8 +26,10 @@
       <div class="col-md-12">
         <h1>Benvenuti ai Servizi IC DAC e IT-security</h1>
         <p class="service-description">
-          Offriamo servizi di consulenza e implementazione per IC DAC (Ingegneria del Conoscere e Data Analysis & Curation) e IT-security (Sicurezza Informatica). La nostra missione è fornire soluzioni innovative e sicure per le esigenze delle aziende in ambito tecnologico.
-        </p>
+          Uno dei miei due diplomi è quello d'informatica conseguito all'ITIS Basilio Focaccia di Salerno e allo stage di formazione per il conseguimento della patente ECDL.Negli avvenire ho sentito la necessità di potenziare ulteriormente il diploma con un corso ammnistrativo IC-DAC che riguarda il nuovo codice CAD dati crittografati ed implementazione del codice HASH.</p>
+     <h2>IT-security - Sicurezza Informatica</h2>
+     <p>ed ultimamente ho ottenuto anche la certificazione di base come Cybersecurity - Sicurezza Informatica aziendale. 
+        Questa formazione mi ha fornito una base solida nella gestione delle minacce informatiche e nella protezione dei dati aziendali. Nel mio ruolo attuale, mi occupo di varie mansioni legate alla sicurezza aziendale, comprese l'implementazione di politiche di sicurezza, l'analisi dei rischi, la gestione degli incidenti di sicurezza e l'aggiornamento delle pratiche di sicurezza in conformità alle normative vigenti.</p>
         <!-- Link alla pagina indice.html -->
         <p>
           <a href="indice.html" class="btn btn-primary">Vai alla Pagina Indice</a>
