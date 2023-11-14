@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>La Mia Pagina con Servizi</title>
+  <!-- Collegamento al file CSS di Bootstrap dalla CDN di Bootstrap -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
+  <!-- Stili personalizzati -->
+  <style>
+    body {
+      background-image: url('link_allo_sfondo.jpg'); /* Sostituisci con il link all'immagine di sfondo */
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: #fff; /* Colore del testo sulla pagina */
+      font-family: Arial, sans-serif; /* Tipo di carattere */
+    }
+    .service-description {
+      font-size: 1.2em; /* Dimensione del testo */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h1>Benvenuti ai Servizi IC DAC e IT-security</h1>
+        <p class="service-description">
+          Offriamo servizi di consulenza e implementazione per IC DAC (Ingegneria del Conoscere e Data Analysis & Curation) e IT-security (Sicurezza Informatica). La nostra missione è fornire soluzioni innovative e sicure per le esigenze delle aziende in ambito tecnologico.
+        </p>
+        <!-- Link alla pagina indice.html -->
+        <p>
+          <a href="indice.html" class="btn btn-primary">Vai alla Pagina Indice</a>
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Collegamento al file JavaScript di Bootstrap (opzionale) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
