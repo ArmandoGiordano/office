@@ -9,7 +9,7 @@
   <!-- Stili personalizzati -->
   <style>
     body {
-      background-image: url('link_allo_sfondo.jpg'); /* Sostituisci con il link all'immagine di sfondo */
+      background-image: url('Kali Hunter.jpg'); /* Sostituisci con il link all'immagine di sfondo */
       background-size: cover;
       background-repeat: no-repeat;
       color: #fff; /* Colore del testo sulla pagina */
